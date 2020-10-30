@@ -16,5 +16,6 @@
         "titleBar.inactiveForeground": "#e7e7e799"
     },
     "peacock.color": "#215732",
-    "python.pythonPath": "/Users/alvaroblancocobian/opt/anaconda3/envs/alien-predator/bin/python"
+    "python.pythonPath": "/Users/alvaroblancocobian/opt/anaconda3/envs/alienpredator/bin/python",
+    "python.dataScience.jupyterServerURI": "local"
 }

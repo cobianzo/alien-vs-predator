@@ -1,8 +1,8 @@
+from helpers import get_download_path
 from google_images_download import google_images_download
 import os, errno
 import time
 
-from helpers import get_download_path
 
 # @file to delete
 def silent_remove_of_file(file):
